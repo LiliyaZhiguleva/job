@@ -10,4 +10,5 @@
 @import url(../blocks/reasons/reasons.css);
 @import url(../blocks/reasons/__img/reasons__img.css);
 @import url(../blocks/reasons/__text/reasons__text.css);
-@import url();
+@import url(../blocks/reasons/__box/reasons__box.css);
+
