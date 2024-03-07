@@ -3,6 +3,10 @@
     justify-content: space-between;
     padding: 16px 16px 0px 16px;
     max-width: 100%;
+    background-color:  #331F14;
+    border: width 10px;;
+    border-color: #FF8F04;
+    border-style: solid;
   }
   
   @media screen and (min-width: 768px) { 

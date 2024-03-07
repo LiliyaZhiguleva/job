@@ -11,4 +11,7 @@
 @import url(../blocks/reasons/__img/reasons__img.css);
 @import url(../blocks/reasons/__text/reasons__text.css);
 @import url(../blocks/reasons/__box/reasons__box.css);
-
+@import url(../blocks/title.css);
+@import url(../blocks/top/top.css);
+@import url(../blocks/slideshow/slideshow.css);
+@import url(../index.css);
